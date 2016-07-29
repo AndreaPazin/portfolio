@@ -51,20 +51,20 @@ nav a:last-child{
 	float: right;
 }
 
-#description{
+#desc{
 	width: 80%;
 	margin: 0 auto;
 	margin-top: 60px;
 }
 
-#description h1{
+#desc h1{
 	font-family: Century Gothic, sans-serif;
 	color: white;
 	font-size: 32px;
 	width: 45%;
 }
 
-#description h4{
+#desc h4{
 	font-family: Century Gothic, sans-serif;
 	color: #767676;
 	width: 55%;
@@ -87,7 +87,7 @@ nav a:last-child{
 	
 }
 
-#fp{
+#feautured{
 	width: 80%;
 	margin: 0 auto;
 	overflow: hidden;
@@ -95,29 +95,29 @@ nav a:last-child{
 
 }
 
-#fp h2{
+#feautured h2{
 	font-family: Century Gothic, sans-serif;
 }
 
-#fp h3{
+#feautured h3{
 	font-family: Century Gothic, sans-serif;
 	color: #353535;
 }
 
-#fp p{
+#feautured p{
 	font-family: Century Gothic, sans-serif;
 	font-weight: bold;
 	color: #767676;
 }
 
-#fpDesc{
+#feauturedDesc{
 	font-weight: normal !important;
 	width: 40%;
 	float: left;
 	font-family: Century Gothic, sans-serif;
 }
 
-#fpImg{
+#feauturedImg{
 	width: 50%;
 	height: 300px;
 	background-color: #233857;
